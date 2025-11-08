@@ -1,8 +1,10 @@
 
-function App() {
 
-  return (
-   <div>Hello word</div>
+function App() {
+  return(
+    <div>
+      HELLO WORD
+    </div>
   )
 }
 
